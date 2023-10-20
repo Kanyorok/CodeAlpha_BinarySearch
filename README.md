@@ -15,6 +15,6 @@ You can change the start and end variables to specify the desired range, and the
 #### Examples
 
 ```python
-print(result)
+print(result_output)
 # => [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 ```
